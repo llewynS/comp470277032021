@@ -21,4 +21,4 @@ If you do not have virtual env installed you can install it with:
     `jupyter notebook`
 
 ## Disclaimer
-This is done during the Prac with the class and therefore is not guaranteed to be correct.
+This is done during the practical with the class and therefore is not guaranteed to be correct.
