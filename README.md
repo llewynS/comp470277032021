@@ -20,5 +20,5 @@ If you do not have virtual env installed you can install it with:
 6. Open jupyter and open the prac you want:
     `jupyter notebook`
 
-##Disclaimer
+## Disclaimer
 This is done during the Prac with the class and therefore is not guaranteed to be correct.
