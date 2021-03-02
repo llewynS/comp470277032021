@@ -6,7 +6,7 @@ In terminal, cmd, or powershell
 1. Clone this repository using (If you do not have git install it):
     `git clone https://github.com/llewynS/COMP47027703DATA7703.git`
 2. Change directory:
-    `cd DATA7703`
+    `cd comp470277032021`
 3. Create a virtual python environment by calling in this directory 
     `python3 -m venv machine_learning`
 If you do not have virtual env installed you can install it with:
